@@ -45,6 +45,7 @@ NeighbourHelp is a Kotlin Android app that allows neighbors to share requests an
 
 ## 📁 Project Structure
 
+```
 NeighbourHelp/
 │
 ├─ app/
@@ -62,6 +63,7 @@ NeighbourHelp/
 ├─ screenshots/
 ├─ build.gradle
 └─ README.md
+```
 
 ---
 
